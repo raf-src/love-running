@@ -148,7 +148,7 @@ main {
     margin: 20px auto;  
 }
 
-#reasons > h2 {
+#reasons h2 {
     font-size: 280%;
     text-align: center;
     margin-bottom: 20px;
@@ -321,8 +321,9 @@ main {
     flex-direction: column;
 }
 
-main h2 {
+#signup-form>h2 {
     color: #fafafa;
+    margin-bottom: 20px;
 }
 
 #signup {
